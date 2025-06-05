@@ -5,10 +5,6 @@ import torch
 from pydantic import BaseModel
 import torch
 import whisper
-import os 
-import tempfile
-from gtts import gTTS
-from utils import qwen
 
 # fastapi 
 app = FastAPI()
