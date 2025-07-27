@@ -1,5 +1,7 @@
 # Qwen Local LLM
 
+<img width="1394" height="378" alt="Screenshot 2025-06-03 171048" src="https://github.com/user-attachments/assets/1c32a57e-b857-4ab9-bcf6-a23c239036ae" />
+
 A lightweight terminal application powered by **Qwen2.5-0.5B-Instruct**, a local language model  developed by Alibaba Cloud. It features a FastAPI backend (`qwen_api.py`) for text generation and a client script (`prompt_loop.py`) for interactive prompting via the terminal.Very friendly and responsive in low-resource enviromnents can delivers fast, accurate responses for general queries or specific use cases (coding assistance).
 
 ## Features
